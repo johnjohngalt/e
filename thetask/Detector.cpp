@@ -2,7 +2,7 @@
 #include <iostream>
 
 //接受图像数据
-void Detector::set_img(cv::Mat& image) {//接收图像地址
+void Detector::set_img(cv::Mat& image) {//接收图像地址 d
   img = image;
 }
 
