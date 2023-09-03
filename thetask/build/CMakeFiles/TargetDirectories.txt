@@ -1,0 +1,3 @@
+/home/yang/code/vs/project4opencv/thetask/build/CMakeFiles/rebuild_cache.dir
+/home/yang/code/vs/project4opencv/thetask/build/CMakeFiles/project.dir
+/home/yang/code/vs/project4opencv/thetask/build/CMakeFiles/edit_cache.dir
